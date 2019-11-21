@@ -7,7 +7,7 @@ exports.getAllInspections = function(req, res) {
     .then(inspections => res.json(inspections));
 };
 
-exports.getOneInspections = function(req, res) {
+exports.getOneInspection = function(req, res) {
   knex
     .select()
     .table("inspections")

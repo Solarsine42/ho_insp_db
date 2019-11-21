@@ -8,8 +8,8 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-app.use("/api/members", require("./routes/membersRoute"));
-app.use("/api/inspections", require("./routes/inspectionsRoute"));
+app.use("/members", require("./routes/membersRoute"));
+app.use("/inspections", require("./routes/inspectionsRoute"));
 
 app.listen(port, function() {
   console.log("listening on port: ", port);
