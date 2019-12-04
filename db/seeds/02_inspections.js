@@ -283,7 +283,7 @@ exports.seed = function(knex, Promise) {
 {"inspector_id":null,"member_id":277,"address":"2930 Upham Junction","special_instructions":"quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut","contact_info":"(150) 3607536"},
 {"inspector_id":null,"member_id":278,"address":"6 Mifflin Drive","special_instructions":null,"contact_info":"(304) 5480932"},
 {"inspector_id":null,"member_id":279,"address":"69893 Dovetail Point","special_instructions":"eget orci vehicula condimentum curabitur in libero ut massa volutpat","contact_info":"(253) 8761037"},
-{"inspector_id":null,"member_id":280,"address":"4 Annamark Plaza","special_instructions":"amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi","contact_info":"(767) 7626492"},
+{"inspector_id":null,"member_id":0,"address":"4 Annamark Plaza","special_instructions":"amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi","contact_info":"(767) 7626492"},
 {"inspector_id":1213,"member_id":5,"address":"913 Atwood Lane","special_instructions":"et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium","contact_info":"(373) 4935067"},
 {"inspector_id":null,"member_id":10,"address":"54004 Gulseth Road","special_instructions":"enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur","contact_info":"(253) 9696950"},
 {"inspector_id":null,"member_id":15,"address":"19 Oak Valley Parkway","special_instructions":"molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam","contact_info":"(335) 7520684"},
