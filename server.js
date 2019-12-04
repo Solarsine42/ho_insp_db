@@ -8,7 +8,6 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-app.use("/members", require("./routes/membersRoute"));
 app.use("/inspections", require("./routes/inspectionsRoute"));
 
 app.listen(port, function() {
